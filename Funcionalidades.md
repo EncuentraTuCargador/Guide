@@ -1,7 +1,5 @@
 
-## 🎯 Funcionalidades Clave
-
-### 🔐 Registro y Autenticación de Usuarios
+## Registro y Autenticación de Usuarios
 
 #### Registro
 - **Ruta**: `POST /api/auth/register?rol={user|admin}`
@@ -36,6 +34,3 @@
       "contrasena": "..."
     }
     ```
-- Comprueba credenciales y, si son válidas, devuelve un JWT y el perfil de usuario.
-
----

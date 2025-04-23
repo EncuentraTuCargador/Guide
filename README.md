@@ -70,3 +70,8 @@ Consulta tu historial de reservas en el panel derecho.
 Panel de Admin
 
 Visualiza todas las reservas de todos los usuarios
+
+
+![image](https://github.com/user-attachments/assets/72e2893d-80cb-4b12-9600-6891e7e074ef)
+
+Image of the App working.

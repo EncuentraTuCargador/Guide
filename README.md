@@ -17,7 +17,7 @@
 
 - **Backend**  
   - Java 17  
-  - Maven  
+  - Springboot  
   - MySQL (o Docker + docker-compose)  
   - Variables en `src/main/resources/application.yml`:  
     ```yaml
@@ -27,8 +27,12 @@
         username: root
         password: TU_PASSWORD
     ```
-- **Frontend**  
-  - Node.js 14+ / npm  
+- **Frontend**
+  - Node.js 14+ / npm
+  - React
+  - HTML5
+  - CSS
+  - JavaScript 
   - Archivo `.env` en la raíz de `frontend/`:
     ```env
     REACT_APP_API_URL=http://localhost:8080/api

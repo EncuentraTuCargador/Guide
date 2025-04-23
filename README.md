@@ -74,4 +74,7 @@ Visualiza todas las reservas de todos los usuarios
 
 ![image](https://github.com/user-attachments/assets/72e2893d-80cb-4b12-9600-6891e7e074ef)
 
+
+![image](https://github.com/user-attachments/assets/bbc1da7f-34c5-4b18-b07b-36aab2c076c5)
+
 Image of the App working.
